@@ -1,5 +1,5 @@
 # DOCKER
 
-## INSTALL
+## INSTALAÇÃO
 
-docker-compose up --build
+Execute o comando <strong>docker-compose up --build</strong>
